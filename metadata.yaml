@@ -1,9 +1,13 @@
 _repo: Kolme-kutteria-Meriseikkailukertomus_49900
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Jokinen, Väinö
     gutenberg_agent_id: '45602'
     url: http://www.gutenberg.org/2009/agents/45602
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marryat, Frederick
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/627
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49900#Kolme-kutteria-Meriseikkailukertomus
 gutenberg_issued: '2015-09-07'
 gutenberg_type: Text
 identifiers:
